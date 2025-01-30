@@ -1,30 +1,31 @@
 <div align="center">
 
-# 🌟 Muhammadali | Full Stack Developer  
-### 🚀 Creating Ideas, Coding Dreams  
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7B93E&lines=Full+Stack+Developer;3D+Designer;Tech+Enthusiast;Open-Source+Contributor)
+# 👋 Hey, I'm Muhammadali!  
+### 💻 Web Developer | 🚀 Python & React Enthusiast  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7B93E&lines=Full+Stack+Web+Developer;Python+%7C+Django+%7C+React;Building+Scalable+Web+Apps)
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="70%"/>
+<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="60%"/>
 
 </div>
 
 ---
 
-## 📜 About Me  
-💡 Passionate about **Web Development & 3D Design**  
-🎯 Currently learning **TypeScript & Docker**  
-💼 Always open for **new collaborations**  
-📫 Reach me at **[Your Email]**  
-🎨 Fun fact: I **blend** code & **creativity** to craft unique digital experiences  
+## 📌 About Me  
+🔹 Passionate about **building scalable web applications**  
+🔹 Skilled in **Python, Django, React, Next.js**  
+🔹 Currently learning **TypeScript & Docker**  
+🔹 Open to **collaborations & open-source contributions**  
+🔹 Fun fact: I enjoy optimizing performance & debugging tricky issues 😎  
 
 ---
 
-## ⚒️ Tech Stack  
+## ⚙️ Tech Stack  
 <div align="center">
 
-![Next.js](https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=nextdotjs)  
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react)  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django)  
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react)  
+![Next.js](https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=nextdotjs)  
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript)  
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker)  
 
@@ -32,7 +33,7 @@
 
 ---
 
-## 📊 My GitHub Stats  
+## 📊 GitHub Stats  
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=muhammadali-git77&show_icons=true&theme=radical" width="48%" />
@@ -42,7 +43,7 @@
 
 ---
 
-## 🌐 Connect with Me  
+## 🌐 Let's Connect!  
 <p align="center">
   <a href="https://linkedin.com/in/muhammadali">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
@@ -57,4 +58,4 @@
 
 ---
 
-🚀 **Thanks for visiting! Feel free to explore my repositories!**  
+🚀 **Thanks for stopping by! Check out my projects & let's code together!**  
