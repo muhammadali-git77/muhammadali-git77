@@ -9,7 +9,9 @@
         width="30px"
         src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png"
         alt=""
-      />
+      />  
+
+   
       <img style="margin-left: 10px;"
         width="30px"
         src="https://img.icons8.com/fluent-systems-filled/512/FFFFFF/nextjs.png"
