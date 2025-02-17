@@ -4,28 +4,28 @@
 - Technologies I know:
   <br/>
   <br/>
- <div style="display: flex;  gap: 15px;">
-      <img
+ <div style="display: flex; align-items: center; gap: 15px;">
+      <img style="margin-left: 10px;"
         width="30px"
         src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png"
         alt=""
       />
-      <img
+      <img style="margin-left: 10px;"
         width="30px"
         src="https://static-00.iconduck.com/assets.00/nextjs-icon-2048x2048-eugu5rfi.png"
         alt=""
       />
-      <img
+      <img style="margin-left: 10px;"
         width="30px"
         src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png"
         alt=""
       />
-      <img
+      <img style="margin-left: 10px;"
         width="30px"
         src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"
         alt=""
       />
-      <img
+      <img style="margin-left: 10px;"
         width="30px"
         src="https://w7.pngwing.com/pngs/10/113/png-transparent-django-web-development-web-framework-python-software-framework-django-text-trademark-logo-thumbnail.png"
         alt=""
