@@ -3,10 +3,8 @@
 - I'm 16 years old
 - From: Uzbekistan | Fergana | Besharik
 - Technologies I know:
-
-  <br/>
-  <br/>
- <div style="display: flex; align-items: center; gap: 15px;">
+  
+ <div >
       <img style="margin-left: 10px;"
         width="30px"
         src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png"
