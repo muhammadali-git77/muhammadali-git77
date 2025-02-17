@@ -12,7 +12,7 @@
       />
       <img style="margin-left: 10px;"
         width="30px"
-        src="[https://static-00.iconduck.com/assets.00/nextjs-icon-2048x2048-eugu5rfi.png](https://img.icons8.com/fluent-systems-filled/512/FFFFFF/nextjs.png"
+        src="https://static-00.iconduck.com/assets.00/nextjs-icon-2048x2048-eugu5rfi.png](https://img.icons8.com/fluent-systems-filled/512/FFFFFF/nextjs.png"
         alt=""
       />
       <img style="margin-left: 10px;"
