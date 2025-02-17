@@ -4,7 +4,7 @@
 - Technologies I know:
   <br/>
   <br/>
- <div style="display: flex; align-items: center; gap: 15px;">
+ <div style="display: flex;  gap: 15px;">
       <img
         width="30px"
         src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png"
