@@ -1,6 +1,5 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7B93E&lines=Full+Stack+Web+Developer;Python+%7C+Django+%7C+Js-Ts%7C+React+%7C+Next+;Building+Scalable+Web+Apps)
 - I'm Muhammadali web developer
-- I'm 16 years old
 - From: Uzbekistan | Fergana | Besharik
 - Technologies I know:
   
