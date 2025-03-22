@@ -1,8 +1,8 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7B93E&lines=Full+Stack+Web+Developer;Python+%7C+Django+%7C+Js-Ts%7C+React+%7C+Next+;Building+Scalable+Web+Apps)
 
-<div style="display:flex">
+<div>
   
-  <div style="display:flex; flex-direction:column">
+  
 - I'm Muhammadali web developer
 - From: Uzbekistan | Fergana | Besharik
 - Technologies I know:
@@ -34,7 +34,7 @@
         alt=""
       />
     </div>
-    </div></div>
+    </div>
 <!---
 muhammadali-git77/muhammadali-git77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
