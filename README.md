@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7B93E&lines=Full+Stack+Web+Developer;Python+%7C+Django+%7C+Js-Ts%7C+React+%7C+Next+;Building+Scalable+Web+Apps)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Nunito&weight=900&size=30&pause=1000&color=F7B93E&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
 
 <div>
   
